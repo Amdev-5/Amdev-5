@@ -8,7 +8,7 @@
 ![Location](https://img.shields.io/badge/Based%20in-Bangalore-lightgrey)
 
 Founder building AI B2B SaaS.  
-I design **multi-agent systems** that research, reason, collaborate, and execute **real business workflows** — not chatbots.
+I design **multi-agent systems** that research, reason, collaborate, and execute **real business workflows** 
 
 ---
 
@@ -39,18 +39,6 @@ I design **multi-agent systems** that research, reason, collaborate, and execute
 **Data** — PostgreSQL · MongoDB · Redis  
 **Infra** — AWS · GCP · Docker · Kubernetes · Terraform
 
----
-
-## Open Source
-
-I like working on systems where:
-- correctness > demos  
-- failure is explicit  
-- abstractions survive real users  
-
-If you’re building serious agent infra, happy to collaborate.
-
----
 
 <p align="center">
   <a href="https://github.com/Amdev-5">GitHub</a> ·
